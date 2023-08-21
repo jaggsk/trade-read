@@ -11,7 +11,7 @@ Find the path of your main Python installation - the package will be installed t
 .. code:: bash
 
     which python
-
+R
 .. code:: bash
 
     C:\Users\kxj17699\AppData\Local\Programs\Python\Python311\Lib\site-packages
@@ -20,7 +20,7 @@ Install the package from a new cmd window (ensure not in the active venv) using 
 Install directly from the git repo:
 
 
-    pip install git+file:///https://github.com/jaggsk/trade-read
+    pip install git+file:https://github.com/jaggsk/trade-read
 
 
 oanda-read
