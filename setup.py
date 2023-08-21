@@ -24,7 +24,7 @@ for i in required:
 setup(
     name='trade-read',
     version=version,
-    packages=['ohlc_read'],
+    packages=['trade_read'],
     description='Python package to read financial data from various online sources',
     long_description=long_description,
     long_description_content_type="text/x-rst",
