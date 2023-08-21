@@ -15,7 +15,7 @@ with open("README.rst", "r") as fh:
 with open('requirements.txt') as f:
     required = f.read().splitlines()
 
-version = get_version('python_package_demo')
+version = get_version('trade_read')
 
 for i in required:
     print(str(i))
